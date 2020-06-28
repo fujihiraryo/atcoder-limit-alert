@@ -3,11 +3,6 @@
     "version": "1.0.0",
     "manifest_version": 2,
     "description": "実行時間やメモリ制限がいつもとちがうときに目立たせます",
-    "icons": {
-        "16": "icon/icon16.png",
-        "48": "icon/icon48.png",
-        "128": "icon/icon128.png"
-    },
     "permissions": [
         "https://atcoder.jp/*"
     ],
